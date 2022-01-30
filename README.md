@@ -1,2 +1,2 @@
 # odin-recipes
-odin-recipe
+This is a test repo for Odin project.
